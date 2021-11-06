@@ -22,5 +22,4 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
+![Screenshot.png](https://github.com/uday-kiran77/Recipe-Blog-Design/blob/main/screenshot.png?raw=true)
